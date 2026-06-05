@@ -13,5 +13,5 @@
 `Python`  `OpenFlow` `ONOS` `Scapy` `Linux Networking` `LaTeX`
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:s24122@students.iitmandi.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/acquinbiju)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:acquinbiju2002@gmail.com)

@@ -14,4 +14,4 @@
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/acquinbiju)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:acquinbiju2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:acquinbiju@gmail.com)
